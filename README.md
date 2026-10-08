@@ -1,7 +1,6 @@
+![We Are Normal Banner](banner.jpg)
 # We Are Normal Digital Marketing Agency
-<p align="center">
-  <img src="logo" width="250">
-</p>
+
 
 ## About
 
