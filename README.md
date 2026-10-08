@@ -1,7 +1,19 @@
 ![We Are Normal Banner](banner.jpg)
-# We Are Normal Digital Marketing Agency
+<h1 align="center">We Are Normal Digital Marketing Agency</h1>
 
+<p align="center">
+  <img src="banner.jpg" width="100%">
+</p>
 
+<p align="center">
+Creative • Strategy • Content • Performance
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Active-success">
+<img src="https://img.shields.io/badge/Marketing-Digital-blue">
+<img src="https://img.shields.io/badge/License-MIT-lightgrey">
+</p>
 ## About
 
 We Are Normal is a full-service digital marketing agency dedicated to helping businesses grow through creative strategies, data-driven marketing, and innovative digital solutions.
